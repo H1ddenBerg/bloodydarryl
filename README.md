@@ -28,7 +28,7 @@ In each changelog file there will be sections for what part of the system has be
 
 ### Commands with :white_check_mark: supports calling from other chats than the streamers chat itself. To use all you need to do is !premier <Twitch username>
 
-### Contact
+#### Contact
 
 Mail: BloodyDarryl@proton.me
 
