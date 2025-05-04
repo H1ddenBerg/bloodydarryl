@@ -2,6 +2,8 @@
 
 Changelog of the BloodyDarryl system.
 
+**Fixes will be pushed to the system immediately! Some updates and new things will also be pushed immediately if they dont require testing**
+
 ## Version
 
 Each version will be in its own changelog file with its version number.
