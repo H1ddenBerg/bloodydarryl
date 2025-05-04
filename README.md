@@ -31,12 +31,17 @@ In each changelog file there will be sections for what part of the system has be
 ### Contact
 
 Mail: BloodyDarryl@proton.me
+
 Discord: [BloodyDaryyl Discord](https://discord.gg/6AxStFS5zr)
+
 Twitch: H1ddenBerg
 
 ### Stay tuned
 
 [Discord](https://discord.gg/6AxStFS5zr)
+
 [X/Twitter](https://x.com/BloodyDarryl)
+
 [X/Twitter (H1ddenBerg)](https://x.com/H1ddenBerg)
+
 [Twitch](https://www.twitch.tv/bloodydarryl)
