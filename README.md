@@ -26,9 +26,9 @@ In each changelog file there will be sections for what part of the system has be
 - `!bot-contact` is how to get in touch with the BloodyDarryl developer.
 - `!bot-delay` gives some info about delays on Y stats (`There might be a delay in new data being compiled, it can take a bit of time finding the matches, download it and compile into stats. So when the streamer finish a match, expect a bit of delay for that match to show. If the streamer is not currently live there is a larger delay as streamers that are live will be prioritized.`)
 
-### Commands with :white_check_mark: supports calling from other chats than the streamers chat itself. To use all you need to do is !premier <Twitch username>
+**Commands with :white_check_mark: supports calling from other chats than the streamers chat itself. To use all you need to do is !premier <Twitch username>**
 
-#### Contact
+### Contact
 
 Mail: BloodyDarryl@proton.me
 
