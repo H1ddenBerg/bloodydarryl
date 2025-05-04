@@ -1,0 +1,29 @@
+# VERSION 1.0.0
+
+### **UPDATES**
+- General script uptimiztion of the Twitch bot.
+- Changed !faceit to show stats from last 30 matches instead of 20 to show the same stats as repeek on profile page
+- Added avg assets, deaths & ADR to !faceit to show the same stats as repeek on profile page
+- Added explain text to !stack
+- Removed !bot-info as counts should be correct now.
+- Added more explain text to !bot-delay
+- Added bot version (To be able to provide changelog)
+- Changed how often faceit stats are updated from every 10 minutes, down to every 5 minutes if you are live (Else still every 10 minutes)
+- Changed !premier to only show stats from last 30 matches to align with !faceit command.
+- Community bans no longer count towards total cheaters in !cheaters command
+- Added AVG KR to !premier command
+- !cheaters command now returns correct numbers.
+- You can now run !elo, !faceit, !cheaters, !premier in any channel the bot is in to see someone stats outside of their chat. (ex: !premier JojoDJ)
+- Added Trend to !premier command, showing last 5 match results and how much gained/lost elo
+
+### **FIXES**
+- Fixed issue with the bot not responding to commands randomly.
+- Fixed a bug with calucation of ranks between competetive and premier matches.
+- Fixed issue with !premier showing to low kill/death and KD value
+- Will now respond to both upper & lower case commands.
+- Commands now checks if the person trying to lookup starts with @, if it does it strips it. So both !elo JoJoDJ and !elo @JoJODJ works.
+- Fixed NaN issue with KD on !premier command
+
+### **DISCORD SERVER**
+- Changed daily-highlight to daily-shoutout and updated the posted message to exclude highlight link.
+- Added time to daily shoutout, making sure people are not shouted out within the same few days, making it possible for more to get a shoutout.
